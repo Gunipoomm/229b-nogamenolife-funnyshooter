@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: dd1c7c0fc933f7f4aa31d13468202f50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4900387864471464700
+    second: toppng.com--bangkok-university-2237x674_0
+  - first:
+      213: -895898097322823008
+    second: toppng.com--bangkok-university-2237x674_1
+  - first:
+      213: -3000448629419792061
+    second: toppng.com--bangkok-university-2237x674_2
+  - first:
+      213: -1591308932202530585
+    second: toppng.com--bangkok-university-2237x674_3
+  - first:
+      213: -3047678060753862274
+    second: toppng.com--bangkok-university-2237x674_4
+  - first:
+      213: -5165544671346866859
+    second: toppng.com--bangkok-university-2237x674_5
+  - first:
+      213: 6377060963008475528
+    second: toppng.com--bangkok-university-2237x674_6
+  - first:
+      213: -8699354221738420083
+    second: toppng.com--bangkok-university-2237x674_7
+  - first:
+      213: -6837192716882759767
+    second: toppng.com--bangkok-university-2237x674_8
+  - first:
+      213: 798718662387880558
+    second: toppng.com--bangkok-university-2237x674_9
+  - first:
+      213: -1125401995420488683
+    second: toppng.com--bangkok-university-2237x674_10
+  - first:
+      213: -5877336670186182765
+    second: toppng.com--bangkok-university-2237x674_11
+  - first:
+      213: -8281241945227761958
+    second: toppng.com--bangkok-university-2237x674_12
+  - first:
+      213: -2439174739224563342
+    second: toppng.com--bangkok-university-2237x674_13
+  - first:
+      213: -7389893101144771783
+    second: toppng.com--bangkok-university-2237x674_14
+  - first:
+      213: -5084991783546203398
+    second: toppng.com--bangkok-university-2237x674_15
+  - first:
+      213: -1966189609164674839
+    second: toppng.com--bangkok-university-2237x674_16
+  - first:
+      213: -1144661386447108093
+    second: toppng.com--bangkok-university-2237x674_17
+  - first:
+      213: 4053209765177306529
+    second: toppng.com--bangkok-university-2237x674_18
+  - first:
+      213: 4877425976260226969
+    second: toppng.com--bangkok-university-2237x674_19
+  - first:
+      213: -4479089008294691036
+    second: toppng.com--bangkok-university-2237x674_20
+  - first:
+      213: 7870496885789142834
+    second: toppng.com--bangkok-university-2237x674_21
+  - first:
+      213: 7498101340483850755
+    second: toppng.com--bangkok-university-2237x674_22
+  - first:
+      213: -8949252023435996562
+    second: toppng.com--bangkok-university-2237x674_23
+  - first:
+      213: -4903560507055216436
+    second: toppng.com--bangkok-university-2237x674_24
+  - first:
+      213: -4251563094002661569
+    second: toppng.com--bangkok-university-2237x674_25
+  - first:
+      213: 6541549536185401118
+    second: toppng.com--bangkok-university-2237x674_26
+  - first:
+      213: -5418205956802204074
+    second: toppng.com--bangkok-university-2237x674_27
+  - first:
+      213: -7257324173320864600
+    second: toppng.com--bangkok-university-2237x674_28
+  - first:
+      213: -6700589571156847360
+    second: toppng.com--bangkok-university-2237x674_29
+  - first:
+      213: 3887207729915677127
+    second: toppng.com--bangkok-university-2237x674_30
+  - first:
+      213: 6406221684727601915
+    second: toppng.com--bangkok-university-2237x674_31
+  - first:
+      213: 4412449253649899281
+    second: toppng.com--bangkok-university-2237x674_32
+  - first:
+      213: -2898859902764061096
+    second: toppng.com--bangkok-university-2237x674_33
+  - first:
+      213: -7159127633542249078
+    second: toppng.com--bangkok-university-2237x674_34
+  - first:
+      213: -7410581234533433781
+    second: toppng.com--bangkok-university-2237x674_35
+  - first:
+      213: 979463864328691235
+    second: toppng.com--bangkok-university-2237x674_36
+  - first:
+      213: -8041556848327995570
+    second: toppng.com--bangkok-university-2237x674_37
+  - first:
+      213: 6369980321399966611
+    second: toppng.com--bangkok-university-2237x674_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 855
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4051b8c53335efbb0800000000000000
+      internalID: -4900387864471464700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_1
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 363
+        width: 144
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2ff1a5d612193f0800000000000000
+      internalID: -895898097322823008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_2
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 363
+        width: 171
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34920ac5ed34c56d0800000000000000
+      internalID: -3000448629419792061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_3
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 363
+        width: 153
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8792015f88ae9e0800000000000000
+      internalID: -1591308932202530585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_4
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 358
+        width: 145
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71c30773f874b5d0800000000000000
+      internalID: -3047678060753862274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_5
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 363
+        width: 158
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55545f85d7c4058b0800000000000000
+      internalID: -5165544671346866859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_6
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 360
+        width: 148
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8817123a82fdf7850800000000000000
+      internalID: 6377060963008475528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_7
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 363
+        width: 158
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d889cfd2d6fa54780800000000000000
+      internalID: -8699354221738420083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_8
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 145
+        width: 122
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afa051f2796d11a0800000000000000
+      internalID: -6837192716882759767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_9
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 147
+        width: 121
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62da13446e951b00800000000000000
+      internalID: 798718662387880558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_10
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 147
+        width: 38
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c227909d4c160f0800000000000000
+      internalID: -1125401995420488683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_11
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 147
+        width: 135
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397ec2c10718f6ea0800000000000000
+      internalID: -5877336670186182765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_12
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 147
+        width: 101
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad662a3a35e131d80800000000000000
+      internalID: -8281241945227761958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_13
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 147
+        width: 121
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271f96b7f7f462ed0800000000000000
+      internalID: -2439174739224563342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_14
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 145
+        width: 120
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933f72ab063d17990800000000000000
+      internalID: -7389893101144771783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_15
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 147
+        width: 38
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2d2ff0aea7e69b0800000000000000
+      internalID: -5084991783546203398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_16
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 147
+        width: 119
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8eca0c7f0b6b4e0800000000000000
+      internalID: -1966189609164674839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_17
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 147
+        width: 136
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308c6b0a8885d10f0800000000000000
+      internalID: -1144661386447108093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_18
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 0
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ada98d7ec4ef3830800000000000000
+      internalID: 4053209765177306529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_19
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 0
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fe04d651910b340800000000000000
+      internalID: 4877425976260226969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_20
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 0
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ffc37374417d1c0800000000000000
+      internalID: -4479089008294691036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_21
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 0
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fa74bc73f993d60800000000000000
+      internalID: 7870496885789142834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_22
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 0
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3029b69417b9e0860800000000000000
+      internalID: 7498101340483850755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_23
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 0
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62d6a923beddc380800000000000000
+      internalID: -8949252023435996562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_24
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 0
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8e652f2bd03fbb0800000000000000
+      internalID: -4903560507055216436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_25
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 0
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f378fc944e96ff4c0800000000000000
+      internalID: -4251563094002661569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_26
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 0
+        width: 11
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fb3f005a048ca50800000000000000
+      internalID: 6541549536185401118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_27
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 0
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e26e0a36aaec4b0800000000000000
+      internalID: -5418205956802204074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_28
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 0
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acba558d1ec84b90800000000000000
+      internalID: -7257324173320864600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_29
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 0
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00552894949b203a0800000000000000
+      internalID: -6700589571156847360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_30
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 0
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9c6c5c5d222f530800000000000000
+      internalID: 3887207729915677127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_31
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 0
+        width: 11
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfad79e3ea877e850800000000000000
+      internalID: 6406221684727601915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_32
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 0
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f5d31d73b2c3d30800000000000000
+      internalID: 4412449253649899281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_33
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 0
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85eef1af64e25c7d0800000000000000
+      internalID: -2898859902764061096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_34
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 0
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a850805195ba5ac90800000000000000
+      internalID: -7159127633542249078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_35
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 0
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e757051a3582990800000000000000
+      internalID: -7410581234533433781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_36
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 0
+        width: 11
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e94a7f131c79d00800000000000000
+      internalID: 979463864328691235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_37
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 0
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fcc4607a6a66090800000000000000
+      internalID: -8041556848327995570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com--bangkok-university-2237x674_38
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 0
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b064b4a57b66850800000000000000
+      internalID: 6369980321399966611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      toppng.com--bangkok-university-2237x674_0: -4900387864471464700
+      toppng.com--bangkok-university-2237x674_1: -895898097322823008
+      toppng.com--bangkok-university-2237x674_10: -1125401995420488683
+      toppng.com--bangkok-university-2237x674_11: -5877336670186182765
+      toppng.com--bangkok-university-2237x674_12: -8281241945227761958
+      toppng.com--bangkok-university-2237x674_13: -2439174739224563342
+      toppng.com--bangkok-university-2237x674_14: -7389893101144771783
+      toppng.com--bangkok-university-2237x674_15: -5084991783546203398
+      toppng.com--bangkok-university-2237x674_16: -1966189609164674839
+      toppng.com--bangkok-university-2237x674_17: -1144661386447108093
+      toppng.com--bangkok-university-2237x674_18: 4053209765177306529
+      toppng.com--bangkok-university-2237x674_19: 4877425976260226969
+      toppng.com--bangkok-university-2237x674_2: -3000448629419792061
+      toppng.com--bangkok-university-2237x674_20: -4479089008294691036
+      toppng.com--bangkok-university-2237x674_21: 7870496885789142834
+      toppng.com--bangkok-university-2237x674_22: 7498101340483850755
+      toppng.com--bangkok-university-2237x674_23: -8949252023435996562
+      toppng.com--bangkok-university-2237x674_24: -4903560507055216436
+      toppng.com--bangkok-university-2237x674_25: -4251563094002661569
+      toppng.com--bangkok-university-2237x674_26: 6541549536185401118
+      toppng.com--bangkok-university-2237x674_27: -5418205956802204074
+      toppng.com--bangkok-university-2237x674_28: -7257324173320864600
+      toppng.com--bangkok-university-2237x674_29: -6700589571156847360
+      toppng.com--bangkok-university-2237x674_3: -1591308932202530585
+      toppng.com--bangkok-university-2237x674_30: 3887207729915677127
+      toppng.com--bangkok-university-2237x674_31: 6406221684727601915
+      toppng.com--bangkok-university-2237x674_32: 4412449253649899281
+      toppng.com--bangkok-university-2237x674_33: -2898859902764061096
+      toppng.com--bangkok-university-2237x674_34: -7159127633542249078
+      toppng.com--bangkok-university-2237x674_35: -7410581234533433781
+      toppng.com--bangkok-university-2237x674_36: 979463864328691235
+      toppng.com--bangkok-university-2237x674_37: -8041556848327995570
+      toppng.com--bangkok-university-2237x674_38: 6369980321399966611
+      toppng.com--bangkok-university-2237x674_4: -3047678060753862274
+      toppng.com--bangkok-university-2237x674_5: -5165544671346866859
+      toppng.com--bangkok-university-2237x674_6: 6377060963008475528
+      toppng.com--bangkok-university-2237x674_7: -8699354221738420083
+      toppng.com--bangkok-university-2237x674_8: -6837192716882759767
+      toppng.com--bangkok-university-2237x674_9: 798718662387880558
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
